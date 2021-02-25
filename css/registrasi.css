@@ -1,0 +1,23 @@
+body{
+    background-color:#63D8A3;
+    
+}
+
+
+.container{
+    background-color: white;
+    width: 100%;
+    margin-top: 4%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.4);
+    padding: 40px;
+}
+
+button{
+    width: 100%;
+    
+}
+
+.container img{
+    width: 200px;
+   margin-left: 40%;
+}
